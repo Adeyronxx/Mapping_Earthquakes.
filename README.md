@@ -14,7 +14,7 @@ This project was created for the purpose of visual presentation of  the differen
 # Results
 1. First we added layers of all earthquakes and tectonic plates to our map using geoJSON data. The red lines in the map show us where we have tectonic plates.
 
-![tectonic plate](https://user-images.githubusercontent.com/109445468/208228669-e0e40bca-c369-4337-b35e-38253df2bd98.png)
+<img width="1339" alt="Screenshot 2022-12-17 at 12 26 34 AM" src="https://user-images.githubusercontent.com/109445468/208228743-07d51f59-dd78-4a6c-88fb-a1cb4ab2085e.png">
 
 2. Next we included the major earthquale data in the past week and set the radius to be reflective of the magnitude of the earthquake.
 
